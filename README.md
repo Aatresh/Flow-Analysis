@@ -8,8 +8,11 @@ Scripts used for processing pressure data from far field & near field experiment
 ### *Global Functions*: 
 Common function scripts that used to conduct data organization & categorizations, computation of Spatial Fourier decomposition & mode reconstruction, computation of critical flow properties such as isentropic Mach no. & axis normalization with a specific lenght scale. 
   
-### *PIV Analysis: Script files that deal with organizing, filetering, processing & data extraction from Particle Image Velocimetry (PIV) vector data.
+### *PIV Analysis*: 
+Scripts that deal with organizing, filetering, processing & data extraction from Particle Image Velocimetry (PIV) vector data.
   
-  =>  POD Analysis: Script files that deal with implementation of Proper Orthogonal Decomposition (POD) technique of spatial energy decomposition on PIV as well as Schlieren images
+### *POD Analysis*: 
+Script files that deal with implementation of Proper Orthogonal Decomposition (POD) technique of spatial energy decomposition on PIV as well as Schlieren images
   
-  =>  Schlieren Image Analysis: Script files that deal with processing high-speed Schlieren images which includes spatial & temporal decomposition of images to extract frequency specific energy distribution in supersonic flows.
+### *Schlieren Image Analysis*: 
+Script files that deal with processing high-speed Schlieren images which includes spatial & temporal decomposition of images to extract frequency specific energy distribution in supersonic flows.
