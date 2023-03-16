@@ -1,6 +1,6 @@
 # Flow-Analysis
-The code directory consists of scripts written in MATLAB.
-Codes are categorized according to experimental data types:
+## Description:
+The code directory consists of scripts written in MATLAB used to post-process temporal & spatial data obtained from various expaeriments conducted at the *Heated Jet Noise Rig (HJNR)* located in the *Gas Dynamics & Propulsion Lab (GDPL)* at the University of Cincinnati. The scripts are categorized according to the type of experiment conducted on supersonic jets. Also included are some common functions utilized by all the scripts for data catergorization, location tracking, normalization parameters, length scale assignment & other parameters to aid in data representation & interpretation.
 
   =>  Acoustic Analysis: Contains scripts for processing pressure data from far field & near field experiments and extracting temporal frequency distribution of supersonic jet noise.
   
