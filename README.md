@@ -15,4 +15,4 @@ Scripts that deal with data reconstruction, vector filetering, flow property ext
 Script files that deal with implementation of Proper Orthogonal Decomposition (POD) technique of spatial energy decomposition on PIV as well as Schlieren images.
   
 ### *Schlieren Image Analysis*: 
-Script files that deal with processing high-speed Schlieren images which includes Spatial & Temporal Fourier decomposition techniques, sequential energy integral of temporal frequency energy distribution & implementation of [Spectral Proper Orthogonal Decomposition (SPOD)](https://www.mathworks.com/matlabcentral/fileexchange/65683-spectral-proper-orthogonal-decomposition-spod) as well as Dynamic Mode Decomposition Techniques.
+Script files that deal with processing high-speed Schlieren images  including Spatial & Temporal Fourier decomposition techniques, sequential energy integral of temporal frequency energy distribution & custom implementation of [Spectral Proper Orthogonal Decomposition (SPOD) - developed by Oliver Schmidt](https://www.mathworks.com/matlabcentral/fileexchange/65683-spectral-proper-orthogonal-decomposition-spod) as well as Dynamic Mode Decomposition Techniques.
